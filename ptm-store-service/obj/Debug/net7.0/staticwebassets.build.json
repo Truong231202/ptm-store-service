@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "BLq+hxm4/B4tcnjW0HFEQuS6QLblhNvm/6lmcvpYV08=",
+  "Source": "ptm-store-service",
+  "BasePath": "_content/ptm-store-service",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
